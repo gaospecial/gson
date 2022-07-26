@@ -2,6 +2,7 @@
 
 S3method(print,GSON)
 export(gson)
+export(mutate_gene_id)
 export(read.gmt)
 export(read.gmt.wp)
 export(read.gson)
